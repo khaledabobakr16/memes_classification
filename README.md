@@ -1,16 +1,9 @@
 # memes_classification
 
-A new Flutter project.
+The "Memes Classification" project is a Flutter-based application designed for classifying and categorizing memes. It provides a platform for users to upload memes and classify them into predefined categories using machine learning models.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Meme Upload: Allows users to upload memes from their device for classification.
+Automatic Classification: Utilizes machine learning models to automatically categorize memes into various categories.
+User Interface: Offers an intuitive and engaging interface for easy meme classification and management.
+Result Display: Shows classification results and provides insights based on the meme's content.
